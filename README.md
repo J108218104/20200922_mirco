@@ -18,6 +18,6 @@
 
 :smile:
 :+1:
-:simple_smile:
+:four_leaf_clover:
 :blush:
 :ok_woman:
