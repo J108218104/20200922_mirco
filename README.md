@@ -10,9 +10,14 @@
 
 ![NKUST](school.jpg "活力圖檔")
 
+![DODOLU](DODOLU.gif "豆豆龍")
+
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 [![Docker](https://img.youtube.com/vi/pa1Zao1Hy2c/0.jpg)](https://www.youtube.com/watch?v=pa1Zao1Hy2c "It's Docker")
 
 :smile:
 :+1:
+:simple_smile:
+:blush:
+:ok_woman:
